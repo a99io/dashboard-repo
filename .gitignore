@@ -1,0 +1,20 @@
+# macOS (optional)
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Editor settings
+.vscode/
+
+# Lock files (use one)
+# yarn.lock
+# package-lock.json
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional ESLint rules folder (if not shared)
+eslint-internal-rules/
